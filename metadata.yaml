@@ -1,0 +1,43 @@
+_repo: The-justice-of-Gideon_73316
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Dunn, Harvey
+    aliases:
+    - Dunn, H. T. (Harvey T.)
+    - Dunn, Harvey T. (Harvey Thomas)
+    - Dunn, Harvey Thomas
+    birthdate: 1884
+    deathdate: 1952
+    gutenberg_agent_id: '8312'
+    url: http://www.gutenberg.org/2009/agents/8312
+    wikipedia: https://en.wikipedia.org/wiki/Harvey_Dunn
+creator:
+  author:
+    agent_name: Gates, Eleanor
+    birthdate: 1875
+    deathdate: 1951
+    gutenberg_agent_id: '6218'
+    url: http://www.gutenberg.org/2009/agents/6218
+    wikipedia: https://en.wikipedia.org/wiki/Eleanor_Gates
+description: ''
+gutenberg_issued: '2024-04-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73316'
+language: en
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=uc2.ark:/13960/t1cj88j8c&view=1up&seq=30&skin=2021
+pgterms:marc905: 20210725164421gates
+pgterms:marc906: '1910'
+pgterms:marc907: us
+production_note: D A Alexander, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bThe Macaulay Company, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The justice of Gideon
+url: http://www.gutenberg.org/ebooks/73316
