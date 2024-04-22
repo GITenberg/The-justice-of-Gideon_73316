@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '8312'
     url: http://www.gutenberg.org/2009/agents/8312
     wikipedia: https://en.wikipedia.org/wiki/Harvey_Dunn
+covers:
+- cover_type: archival
+  image_path: 73316-h/images/coversmall.jpg
 creator:
   author:
     agent_name: Gates, Eleanor
@@ -21,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6218
     wikipedia: https://en.wikipedia.org/wiki/Eleanor_Gates
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73316#The-justice-of-Gideon
 gutenberg_issued: '2024-04-02'
 gutenberg_type: Text
 identifiers:
